@@ -1,8 +1,8 @@
 # wbrutter
-A simple web application brutter
+A very simple web application brutter
 
 ## Usage
 
 ```
-wbrutter.py -h <host> -i <dictionnary>
+wbrutter.py <host>  <dictionnary file>
 ```
